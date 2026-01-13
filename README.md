@@ -20,5 +20,5 @@ It takes an integer input from the user and prints whether the number is even or
    ```bash
    javac EvenOdd.java
 3. Run   
-bash
-java EvenOdd
+   ```bash
+   java EvenOdd
