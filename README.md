@@ -19,3 +19,6 @@ It takes an integer input from the user and prints whether the number is even or
 2. Compile:
    ```bash
    javac EvenOdd.java
+3. Run   
+bash
+java EvenOdd
